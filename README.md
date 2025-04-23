@@ -4,13 +4,12 @@
 [![Substack Badge](https://img.shields.io/badge/Substack-FF6719?style=flat&logo=substack&logoColor=white)](https://substack.com/@lauren225268)
 [![Email Badge](https://img.shields.io/badge/Email%20Me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:laurencaroline.leek@eui.eu)
 
-I am a **social data scientist** and currently a PhD researcher in **political science** at the **European University Institute (EUI)**. My work mainly concerns various **political economy** topics and **natural language processing**, working mainly in **Python** and **R**. I Like plotting random data too. 
+I am a **social data scientist** and currently a **postdoctoral research fellow** in computational social sciences in the DIVIDED project and a **senior research scientist** at the Verian Group (UK), specialising in methodology and data analytics. I am also still wrapping up my PhD in **political science** at the **European University Institute (EUI)**. My work mainly concerns various **political economy** topics and **natural language processing**, working mainly in **Python** and **R**. I Like plotting random data too. 
 
 ---
 
 ## ✨ About Me
 
-- 🎓 **PhD Researcher** at the EUI  
 - 💡 Interested in **political economy**, **NLP**, and **data-driven insights**  
 - 🛠️ **Tech Stack**: Python and R
 - ⚙️ Tools I love: Pandas, matlibplot, tidyverse, ggplot2  
