@@ -21,7 +21,7 @@ I hold a PhD from the **European University Institute (EUI)**, and previously wo
 |---|---|---|
 | **[CentralBankTalk.eu](https://www.centralbanktalk.eu)** | Data and visualisations from my PhD thesis on central bank communication, now covering 119 central banks and ~19,000 speeches. | [Visit Site](https://www.centralbanktalk.eu) |
 | **[PublicOpinionAnalyticslab.github.io](https://publicopinionanalyticslab.github.io/)** | I created the website and infrastructure of the recently established public opinion analytics lab. | [Visit Site](https://publicopinionanalyticslab.github.io/) |
-| **[Tour de Data](https://substack.com/@lauren225268)** | My data Substack on politics, economics and everyday life — featured in FT Alphaville, The Guardian, The Economist, BBC4, Hacker news. | [Read](https://substack.com/@lauren225268) |
+| **[Lauren's Data Substack](https://substack.com/@laurenleek1)** | My data Substack on politics, economics and everyday life — featured in FT Alphaville, The Guardian, The Economist, BBC4, Hacker news. | [Read](https://substack.com/@lauren225268) |
 
 ---
 
