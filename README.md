@@ -1,36 +1,34 @@
-# Hey! I'm Lauren 
+# Hey! I'm Lauren
 
-[![Bluesky Badge](https://img.shields.io/badge/Bluesky-0066FF?style=flat&logoColor=white)](https://bsky.app/profile/laurenleek.eu)
-[![Substack Badge](https://img.shields.io/badge/Substack-FF6719?style=flat&logo=substack&logoColor=white)](https://substack.com/@lauren225268)
-[![Email Badge](https://img.shields.io/badge/Email%20Me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:laurencaroline.leek@eui.eu)
+I am a **social data scientist** and **Assistant Professor** at the **Institute of Political Science, Leiden University**, where I teach and research mainly in the **Politics and AI**. I specialise in methodology, data analytics and political economy.
 
-I am a **social data scientist** and currently a **postdoctoral research fellow** in computational social sciences in the DIVIDED project, specialising in methodology, data analytics and political economy. I am mainly based at the LSE Data Science Institute as a visiting fellow. I just defended my PhD at the **European University Institute (EUI)**. My work concerns various **political economy** topics and **natural language processing**, mainly in **Python** and **R**. I Like plotting random data too. In my free time I love writing my data Substack ([@lauren225268](https://substack.com/@lauren225268), so please do check it out!
+I hold a PhD from the **European University Institute (EUI)**, and previously worked as a postdoctoral research fellow in computational social science on the DIVIDED project, based at the **LSE Data Science Institute**. My work concerns various **political economy** topics and **natural language processing**, mainly in **Python** and **R**. I like plotting random data too. In my free time I write my data Substack, [Lauren's Data Substack](https://substack.com/@laurenleek1) — please do check it out!
 
 ---
 
-## ✨ About Me
+## About Me
 
-- 💡 Interested in **political economy**, **NLP**, and **data-driven insights**  
-- 🛠️ **Tech Stack**: Python and R
-- ⚙️ Tools I love: Pandas, matlibplot, tidyverse, ggplot2  
-- 📫 Reach me at: **laurencaroline.leek@eui.eu** (happy to grab coffees in London!)
-
----
-
-## 🚀 Featured Project
-
-| Project                                                     | Description                                                                                    | Link                                             |
-|-------------------------------------------------------------|------------------------------------------------------------------------------------------------|--------------------------------------------------|
-| **[CentralBankTalk.eu](https://www.centralbanktalk.eu)**    | This website shows data and  visualisation of my PhD thesis on central bank communication.     | [Visit Site](https://www.centralbanktalk.eu)    |
-| **[PublicOpinionAnalyticslab.github.io](https://publicopinionanalyticslab.github.io/)**    | I created the website and infrastructure of the recently established public opinion analytics lab.     | [Visit Site](https://publicopinionanalyticslab.github.io/)    |
+- Interested in **political economy**, **NLP**, **AI as a research tool**, and **data-driven insights**
+- **Tech Stack**: Python and R
+- Tools I love: pandas, matplotlib, tidyverse, ggplot2
+- Reach me at: **lc.leek@hotmail.com** (happy to grab coffees in The Hague or Leiden!)
 
 ---
 
-## 🤝 Connect with Me
+## Featured Projects
 
-- **Bluesky**: [@laurenleek.eu](https://bsky.app/profile/laurenleek.eu)  
-- **Substack**: [@lauren225268](https://substack.com/@lauren225268)  
+| Project | Description | Link |
+|---|---|---|
+| **[CentralBankTalk.eu](https://www.centralbanktalk.eu)** | Data and visualisations from my PhD thesis on central bank communication, now covering 119 central banks and ~19,000 speeches. | [Visit Site](https://www.centralbanktalk.eu) |
+| **[PublicOpinionAnalyticslab.github.io](https://publicopinionanalyticslab.github.io/)** | I created the website and infrastructure of the recently established public opinion analytics lab. | [Visit Site](https://publicopinionanalyticslab.github.io/) |
+| **[Tour de Data](https://substack.com/@lauren225268)** | My data Substack on politics, economics and everyday life — featured in FT Alphaville, The Guardian, The Economist, BBC4, Hacker news. | [Read](https://substack.com/@lauren225268) |
+
+---
+
+## Connect with Me
+
+- **Bluesky**: [@laurenleek.eu](https://bsky.app/profile/laurenleek.eu)
+- **Substack**: [Tour de Data](https://substack.com/@lauren225268)
 - **Email**: [laurencaroline.leek@eui.eu](mailto:laurencaroline.leek@eui.eu)
 
-Feel free to reach out if you’d like to collaborate or just want to chat about data, politics, or research!
-
+Feel free to reach out if you'd like to collaborate or just want to chat about data, politics, or research!
